@@ -13,6 +13,8 @@ The dataset tracks orders of various bike categories and includes:
 - Revenue and product details
 - Brand and sales representatives
 
+  ---
+
 ### 🗂 Excel Sheets:
 - `Table1`: Cleaned transactional sales data (main source)
 - `Country`: Revenue by State
@@ -20,6 +22,8 @@ The dataset tracks orders of various bike categories and includes:
 - `Percentage`: Category-wise revenue %
 - `Waterfall`: Prepared data for Waterfall chart
 - `Dashboard Light`: Dashboard layout (empty in this file)
+
+  ---
 
 
 ## 📁 Folder Structure
@@ -30,6 +34,7 @@ car-sales-dashboard-powerbi/
 ├──   dashboard_screenshot.jpg                                                                                                                      
 ├──   README.md # Project documentation                                                                                                                                   
 ├──   LICENSE # MIT
+
 ---
 
 ## 📊 Dashboard Insights
@@ -61,13 +66,6 @@ The dashboard visualizes:
 2. Open `Bike Dashboard.xlsx` to explore the data
 3. Use Power BI to design dashboard visuals
 4. Save & export dashboard screenshots into `assets/`
-
----
-
-## 👤 Author
-
-**Rohit Chandorkar**  
- 
 
 ---
 
