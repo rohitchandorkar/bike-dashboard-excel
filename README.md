@@ -21,6 +21,15 @@ The dataset tracks orders of various bike categories and includes:
 - `Waterfall`: Prepared data for Waterfall chart
 - `Dashboard Light`: Dashboard layout (empty in this file)
 
+
+## 📁 Folder Structure
+
+car-sales-dashboard-powerbi/
+
+├──    xlsx file #  file                                                                                                                          
+├──   dashboard_screenshot.jpg                                                                                                                      
+├──   README.md # Project documentation                                                                                                                                   
+├──   LICENSE # MIT
 ---
 
 ## 📊 Dashboard Insights
