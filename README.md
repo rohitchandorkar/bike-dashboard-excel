@@ -58,7 +58,7 @@ The dashboard visualizes:
 ## 👤 Author
 
 **Rohit Chandorkar**  
-🔗 [GitHub](https://github.com/your-profile) 
+ 
 
 ---
 
